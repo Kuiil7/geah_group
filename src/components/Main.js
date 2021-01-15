@@ -83,7 +83,7 @@ class Main extends Component {
     <div class="col-sm text-left">
   
       <h5>
-        DIRECCION
+      DIRECCIÓN
       </h5>
       <p>
      <iframe title="Google Maps"  src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3900.2937853801!2d-76.9700528!3d-12.1603909!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105b859d0ec00d7%3A0x55ef6c5039ef07a3!2sAv.%20Guillermo%20Billinghurst%20787%2C%20San%20Juan%20de%20Miraflores%2015801%2C%20Peru!5e0!3m2!1sen!2sus!4v1609308430550!5m2!1sen!2sus" width="90%" height="80px" frameborder="0" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>

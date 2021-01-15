@@ -47,7 +47,7 @@ Estamos comprometidos con <strong> el cuidado de la salud y la belleza de todos 
      <div>
        <center>
        <img src={geah_logos_1} height={120}className="padding   " alt="GEAH logo" />
-       <img src={geah_logos_2} height={110} className="padding container-fluid   " alt="GEAH logo" />
+       <img src={geah_logos_2} height={110} className="padding  " alt="GEAH logo" />
        </center>
      </div>
    
