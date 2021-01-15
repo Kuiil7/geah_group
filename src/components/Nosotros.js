@@ -13,9 +13,9 @@ import '../style/Nosotros.css'
 class Nosotros extends Component {
   render() {
     return (
-      <div id="about" >
+      <div id="about" className="container" >
       <h1 className="text-center">
-      GEAH GROUP
+      GEAH GROUP 
     </h1>
    <div className="row">
    

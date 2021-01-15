@@ -47,20 +47,26 @@ import "../style/Productos.css"
 class Product extends Component {
   render() {
     return (
-      <center>
+ 
 
     
-      <div id="productos">
+      <div id="productos" className="container" >
     
 <div >
-    <h1 className="text-danger"> 
+  <center>
+  <h1 className="text-danger "> 
         PRODUCTOS
     </h1>
+  </center>
+   
   
    
-  <div className="row " >
-    <div className="col-sm-4  padding_20">
-    <img src={Biotina_pink} height={150}  alt="Second slide" />
+  <div className="row  " >
+    <div className="col-sm-4 padding_20">
+
+      <img src={Biotina_pink} className="center-block" height={150}  alt="Second slide" />
+    
+    
     <div className="padding_10">
     <button type="button" class="btn btn-danger btn-sm btn-block " data-toggle="modal" data-target="#Biotina-Modal">
       Biotina
@@ -92,7 +98,7 @@ class Product extends Component {
 </div>
     </div>
     <div className="col-sm-4 padding_20">
-    <img  src={red_bottle_1} height={150}  alt="Second slide" />
+    <img  src={red_bottle_1} height={150} className="center-block"  alt="Second slide" />
     <div className="padding_10">
     <button type="button" class="btn btn-danger btn-sm btn-block" data-toggle="modal" data-target="#PA-Modal">
       Peau d'Ange
@@ -122,7 +128,7 @@ class Product extends Component {
 </div>
     </div>
     <div className="col-sm-4 padding_20">
-    <img  src={PAP_Premium_black}  height={150} alt="Second slide" />
+    <img  src={PAP_Premium_black}  height={150} className="center-block" alt="Second slide" />
     <div className="padding_10">
     <button type="button" class="btn btn-danger btn-sm btn-block " data-toggle="modal" data-target="#Citrato_z_cropped">
       Peau d'Ange Premium
@@ -156,7 +162,7 @@ class Product extends Component {
   <div class="w-100"></div>
   <div className="row">
     <div className="col-sm-4 padding_20">
-    <img  src={blue_bottle} height={150}   alt="Second slide" />
+    <img  src={blue_bottle} height={150}  className="center-block"  alt="Second slide" />
     <div className="padding_10">
     <button type="button" class="btn btn-danger btn-sm btn-block" data-toggle="modal" data-target="#Citrato_Z2_cropped">
      Closuro de Magnesio
@@ -189,7 +195,7 @@ class Product extends Component {
 </div>
     </div>
     <div className="col-sm-4 padding_20">
-    <img  src={camu_orange} height={150}  alt="Second slide" />
+    <img  src={camu_orange} height={150} className="center-block"  alt="Second slide" />
     <div className="padding_10">
     <button type="button" class="btn btn-danger btn-sm btn-block" data-toggle="modal" data-target="#exampleModal">
    CamuPlus C
@@ -219,7 +225,7 @@ class Product extends Component {
 </div>
     </div>
     <div className="col-sm-4 padding_20">
-    <img src={reg_vitamin2} height={150}  alt="Second slide" />
+    <img src={reg_vitamin2} height={150} className="center-block" alt="Second slide" />
     <div className="padding_10">
     <button type="button" class="btn btn-danger btn-sm btn-block" data-toggle="modal" data-target="#PAP_RED_cropped">
  Regeneratur Vitamin C
@@ -252,7 +258,7 @@ class Product extends Component {
 
 
 </div>
-</center>
+
     );
   }
 }

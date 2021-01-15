@@ -16,7 +16,7 @@ class Main extends Component {
       return (
     <div>
       <HashRouter basename={process.env.PUBLIC_URL}>
-          <div id="navbar1" >
+          <div >
            
             <ul className="navbar">
             <li><NavLink to="/">GEAH GROUP</NavLink></li>
@@ -52,10 +52,22 @@ class Main extends Component {
     CONTACTO
       </h5> 
       <a href="https://api.whatsapp.com/send?phone=+51997672947"  >
-      <i className="fab fa-whatsapp fa-lg"> +51 997 672 947
+      <i className="fab fa-whatsapp fa-lg"> 997 672 947  | &nbsp;
+
 
  </i>
+ 
  </a>
+ 
+
+ <a href="https://api.whatsapp.com/send?phone=+51997672947"  >
+ <i className="fab  fa-lg">   973 364 627  </i>
+
+ 
+ 
+ </a>
+
+
 
       <p>
       <a href="https://api.whatsapp.com/send?phone=+51997672947" className="float " >

@@ -14,10 +14,10 @@ class Home extends Component {
   render() {
     return (
 
-        <div>
+     
 
       
-      <div id=" carousel">
+      <div   >
   <div id="carouselExampleIndicators" className="carousel slide" data-ride="carousel">
   <ol className="carousel-indicators">
     <li data-target="#carouselExampleIndicators" data-slide-to="0" className="active"></li>
@@ -29,7 +29,7 @@ class Home extends Component {
       <img src={geah_pharm_logo1}  className="d-block w-100" alt="First slide" />
     </div>
  
-    <div className="carousel-item">
+    <div className="carousel-item ">
       <img src={geah_slideshow_combo_1}  className="d-block w-100" alt="Third slide" />
     </div>
     <div className="carousel-item">
@@ -51,7 +51,7 @@ class Home extends Component {
 
       </div>
    
-      </div>
+     
     );
   }
 }
