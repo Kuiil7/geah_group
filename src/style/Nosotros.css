@@ -1,0 +1,17 @@
+
+
+
+.floated{
+    float: left;
+    width: 300px;
+  
+    padding: 10px;
+    border-radius: 15px;
+    
+}
+
+#about  {
+    padding: 20px;
+    background-color: white;
+    
+}
