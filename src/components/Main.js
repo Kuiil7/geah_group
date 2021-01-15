@@ -16,13 +16,13 @@ class Main extends Component {
       return (
     <div>
       <HashRouter basename={process.env.PUBLIC_URL}>
-          <div id="navbar1">
+          <div id="navbar1" >
            
             <ul className="navbar">
             <li><NavLink to="/">GEAH GROUP</NavLink></li>
 
               <li><NavLink to="/producto">Productos</NavLink></li>
-              <li><NavLink to="/nosotros">Nosotros</NavLink></li>
+              <li><NavLink to="/nosotros">¿Quiénes Somos?</NavLink></li>
             </ul>
           <div className="content">
   <Route exact path="/" component={Home}/>

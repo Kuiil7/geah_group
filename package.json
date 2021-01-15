@@ -1,6 +1,8 @@
 {
   "name": "geah_group",
   "version": "0.1.0",
+  "homepage": "http://groupgeah.pe",
+
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
@@ -40,7 +42,6 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://geahgroup.pe",
   "devDependencies": {
     "gh-pages": "^3.1.0"
   }
