@@ -15,7 +15,7 @@ class Main extends Component {
     render() {
       return (
     <div>
-        <HashRouter>
+      <HashRouter basename={process.env.PUBLIC_URL}>
           <div id="navbar1">
            
             <ul className="navbar">
