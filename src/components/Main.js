@@ -52,7 +52,7 @@ class Main extends Component {
     CONTACTO
       </h5> 
       <a href="https://api.whatsapp.com/send?phone=+51997672947"  >
-      <i className="fab fa-whatsapp fa-lg"> +51 973 364 627
+      <i className="fab fa-whatsapp fa-lg"> +51 997 672 947
 
  </i>
  </a>
