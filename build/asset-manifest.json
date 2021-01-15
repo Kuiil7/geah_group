@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Geah_Group/static/css/main.69ec3a14.chunk.css",
-    "main.js": "/Geah_Group/static/js/main.a918b7c5.chunk.js",
-    "main.js.map": "/Geah_Group/static/js/main.a918b7c5.chunk.js.map",
+    "main.js": "/Geah_Group/static/js/main.ecd1fc5b.chunk.js",
+    "main.js.map": "/Geah_Group/static/js/main.ecd1fc5b.chunk.js.map",
     "runtime-main.js": "/Geah_Group/static/js/runtime-main.0d9aaf53.js",
     "runtime-main.js.map": "/Geah_Group/static/js/runtime-main.0d9aaf53.js.map",
     "static/js/2.cc02b67f.chunk.js": "/Geah_Group/static/js/2.cc02b67f.chunk.js",
@@ -31,6 +31,6 @@
     "static/js/runtime-main.0d9aaf53.js",
     "static/js/2.cc02b67f.chunk.js",
     "static/css/main.69ec3a14.chunk.css",
-    "static/js/main.a918b7c5.chunk.js"
+    "static/js/main.ecd1fc5b.chunk.js"
   ]
 }
