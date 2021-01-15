@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Geah_Group/static/css/main.69ec3a14.chunk.css",
+    "main.js": "/Geah_Group/static/js/main.a918b7c5.chunk.js",
+    "main.js.map": "/Geah_Group/static/js/main.a918b7c5.chunk.js.map",
+    "runtime-main.js": "/Geah_Group/static/js/runtime-main.0d9aaf53.js",
+    "runtime-main.js.map": "/Geah_Group/static/js/runtime-main.0d9aaf53.js.map",
+    "static/js/2.cc02b67f.chunk.js": "/Geah_Group/static/js/2.cc02b67f.chunk.js",
+    "static/js/2.cc02b67f.chunk.js.map": "/Geah_Group/static/js/2.cc02b67f.chunk.js.map",
+    "index.html": "/Geah_Group/index.html",
+    "static/css/main.69ec3a14.chunk.css.map": "/Geah_Group/static/css/main.69ec3a14.chunk.css.map",
+    "static/js/2.cc02b67f.chunk.js.LICENSE.txt": "/Geah_Group/static/js/2.cc02b67f.chunk.js.LICENSE.txt",
+    "static/media/Biotina_pink.d9bded26.png": "/Geah_Group/static/media/Biotina_pink.d9bded26.png",
+    "static/media/PAP_Premium_black.5452e33b.png": "/Geah_Group/static/media/PAP_Premium_black.5452e33b.png",
+    "static/media/blue_bottle.905cbb22.png": "/Geah_Group/static/media/blue_bottle.905cbb22.png",
+    "static/media/camu_orange.8ae86c1d.png": "/Geah_Group/static/media/camu_orange.8ae86c1d.png",
+    "static/media/geah_logos_1.26fa6969.jpg": "/Geah_Group/static/media/geah_logos_1.26fa6969.jpg",
+    "static/media/geah_logos_2.94786e89.jpg": "/Geah_Group/static/media/geah_logos_2.94786e89.jpg",
+    "static/media/geah_pharm_logo1.2a22c5b1.jpg": "/Geah_Group/static/media/geah_pharm_logo1.2a22c5b1.jpg",
+    "static/media/geah_slideshow_combo_1.71e279a7.jpg": "/Geah_Group/static/media/geah_slideshow_combo_1.71e279a7.jpg",
+    "static/media/geah_slideshow_combo_2.36f3fd3d.jpg": "/Geah_Group/static/media/geah_slideshow_combo_2.36f3fd3d.jpg",
+    "static/media/geah_slideshow_combo_3.430f47b0.jpg": "/Geah_Group/static/media/geah_slideshow_combo_3.430f47b0.jpg",
+    "static/media/geri_card_8.65223f1d.jpeg": "/Geah_Group/static/media/geri_card_8.65223f1d.jpeg",
+    "static/media/pap_2_inst.e5d2e23b.png": "/Geah_Group/static/media/pap_2_inst.e5d2e23b.png",
+    "static/media/pap_inst.b9420527.png": "/Geah_Group/static/media/pap_inst.b9420527.png",
+    "static/media/pap_prem_inst.df067bb2.png": "/Geah_Group/static/media/pap_prem_inst.df067bb2.png",
+    "static/media/red_bottle_1.60b18f20.png": "/Geah_Group/static/media/red_bottle_1.60b18f20.png",
+    "static/media/reg_vitamin2.a8b03866.png": "/Geah_Group/static/media/reg_vitamin2.a8b03866.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d9aaf53.js",
+    "static/js/2.cc02b67f.chunk.js",
+    "static/css/main.69ec3a14.chunk.css",
+    "static/js/main.a918b7c5.chunk.js"
+  ]
+}
