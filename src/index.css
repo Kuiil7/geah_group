@@ -17,9 +17,12 @@ body {
     text-align: center;
     list-style-type: none;
 
+
     }
 
-  
+  #navbar1 {
+    padding-bottom: 100px;
+  }
 
   a,  :visited, :active, :focus{ 
     outline: 0;
