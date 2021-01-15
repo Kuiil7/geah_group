@@ -51,14 +51,14 @@ class Main extends Component {
     <h5>
     CONTACTO
       </h5> 
-      <a href="https://api.whatsapp.com/send?phone=+51997672947"  target="_blank">
+      <a href="https://api.whatsapp.com/send?phone=+51997672947"  >
       <i className="fab fa-whatsapp fa-lg"> +51 973 364 627
 
  </i>
  </a>
 
       <p>
-      <a href="https://api.whatsapp.com/send?phone=+51997672947" className="float " target="_blank">
+      <a href="https://api.whatsapp.com/send?phone=+51997672947" className="float " >
 <i className="fab fa-whatsapp my-float fa-lg"> </i>
 </a>
 
