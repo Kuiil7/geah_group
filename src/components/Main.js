@@ -24,14 +24,14 @@ class Main extends Component {
               <li><NavLink to="/producto">Productos</NavLink></li>
               <li><NavLink to="/nosotros">¿Quiénes Somos?</NavLink></li>
             </ul>
-          <div className="content">
+          <div className="row">
   <Route exact path="/" component={Home}/>
   <Route path="/producto" component={Productos}/>
   <Route path="/nosotros" component={Nosotros}/>
 </div>
           </div>
         </HashRouter>
-<div></div>
+
 <footer id="footer">
 <div className=" text-light ">
   <div className="row">

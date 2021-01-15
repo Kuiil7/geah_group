@@ -8,7 +8,6 @@ import geah_slideshow_combo_3 from "../images/slideshow/geah_slideshow_combo_3.j
 import geah_pharm_logo1 from "../images/slideshow/geah_pharm_logo1.jpg"
 import "../style/Carousel.css"
 
-import InstagramEmbed from 'react-instagram-embed';
 
 
 class Home extends Component {
@@ -51,19 +50,7 @@ class Home extends Component {
 </div>
 
       </div>
-      <InstagramEmbed
-  url='https://instagr.am/p/Zw9o4/'
-  clientAccessToken='123|456'
-  maxWidth={320}
-  hideCaption={false}
-  containerTagName='div'
-  protocol=''
-  injectScript
-  onLoading={() => {}}
-  onSuccess={() => {}}
-  onAfterRender={() => {}}
-  onFailure={() => {}}
-/>
+   
       </div>
     );
   }
