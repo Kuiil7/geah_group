@@ -84,7 +84,7 @@ class Main extends Component {
       </p>
       <p>
      
-      <a  href="https://www.instagram.com/medicinaestetica_geah/">  <i className="fab fa-instagram fa-lg"></i>  </a>
+      <a  href="https://www.instagram.com/geahpharm/">  <i className="fab fa-instagram fa-lg"></i>  </a>
       
       <a  href="https://www.facebook.com/pg/GeahPharm/"> <i class="fab fa-facebook-f fa-lg"></i> </a>
 

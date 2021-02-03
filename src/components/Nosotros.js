@@ -4,6 +4,7 @@ import React, { Component } from "react";
 import geri_card_8 from "../images/geri_card_8.jpeg"
 import geah_logos_1 from "../images/geah_logos_1.jpg"
 import geah_logos_2 from "../images/geah_logos_2.jpg"
+import geah_logo_estetica2 from "../images/geah_logo_estetica2.jpeg"
 
 
 import '../style/Nosotros.css'
@@ -46,8 +47,10 @@ Estamos comprometidos con <strong> el cuidado de la salud y la belleza de todos 
      </div>
      <div>
        <center>
-       <img src={geah_logos_1} height={120}className="padding   " alt="GEAH logo" />
-       <img src={geah_logos_2} height={110} className="padding  " alt="GEAH logo" />
+       <img src={geah_logos_1} height={110}className="padding  " alt="GEAH logo" />
+       <img src={geah_logos_2} height={110} className="padding rounded-circle  " alt="GEAH logo" />
+       <img src={geah_logo_estetica2} height={150} className="padding rounded-circle   " alt="GEAH logo" />
+
        </center>
      </div>
    
