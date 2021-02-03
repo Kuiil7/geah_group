@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.53f1ebed.chunk.css",
-    "main.js": "/static/js/main.73eaa079.chunk.js",
-    "main.js.map": "/static/js/main.73eaa079.chunk.js.map",
+    "main.css": "/static/css/main.b0399a80.chunk.css",
+    "main.js": "/static/js/main.4f011047.chunk.js",
+    "main.js.map": "/static/js/main.4f011047.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.94f1253a.js",
     "runtime-main.js.map": "/static/js/runtime-main.94f1253a.js.map",
     "static/js/2.0694182a.chunk.js": "/static/js/2.0694182a.chunk.js",
     "static/js/2.0694182a.chunk.js.map": "/static/js/2.0694182a.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.53f1ebed.chunk.css.map": "/static/css/main.53f1ebed.chunk.css.map",
+    "static/css/main.b0399a80.chunk.css.map": "/static/css/main.b0399a80.chunk.css.map",
     "static/js/2.0694182a.chunk.js.LICENSE.txt": "/static/js/2.0694182a.chunk.js.LICENSE.txt",
     "static/media/Biotina_pink.d9bded26.png": "/static/media/Biotina_pink.d9bded26.png",
     "static/media/PAP_Premium_black.5452e33b.png": "/static/media/PAP_Premium_black.5452e33b.png",
@@ -30,7 +30,7 @@
   "entrypoints": [
     "static/js/runtime-main.94f1253a.js",
     "static/js/2.0694182a.chunk.js",
-    "static/css/main.53f1ebed.chunk.css",
-    "static/js/main.73eaa079.chunk.js"
+    "static/css/main.b0399a80.chunk.css",
+    "static/js/main.4f011047.chunk.js"
   ]
 }

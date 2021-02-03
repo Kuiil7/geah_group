@@ -1,27 +1,4 @@
 import React, { Component } from "react";
-//import Biotina_cropped from "../images/cropped/Biotina_cropped.jpg"
-
-//import Citrato_Z_cropped from "../images/cropped/Citrato_Z_cropped.jpg"
-
-//import Citrato_M_cropped from "../images/cropped/Citrato_M_cropped.jpg"
-
-//import Citrato_Z2_cropped from "../images/cropped/Citrato_Z2_cropped.jpg"
-
-//import PAP_MZ_cropped from "../images/cropped/PAP_MZ_cropped.jpg"
-
-//import PAP_RED_cropped from "../images/cropped/PAP_RED_cropped.jpg"
-
-//import Biotina_full from "../images/Biotina_full.jpg"
-
-//import Citrato_Z_full from "../images/Citrato_Z_full.jpg"
-
-//import Citrato_M_full from "../images/Citrato_M_full.jpg"
-
-//import Citrato_Z2_full from "../images/Citrato_Z2_full.jpg"
-
-//import PAP_MZ_full from "../images/PAP_MZ_full.jpg"
-
-//import PAP_RED_full from "../images/PAP_RED_full.jpg"
 
 import Biotina_pink from "../images/bottles/Biotina_pink.png"
 
@@ -69,13 +46,13 @@ class Product extends Component {
     
     <div className="padding_10">
     <button type="button" class="btn btn-danger btn-sm btn-block " data-toggle="modal" data-target="#Biotina-Modal">
-      Biotina
+    Peau D'ange Colágeno hidrolizado + Biotina
     </button>  
     <div className="modal fade" id="Biotina-Modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
       <div className="modal-dialog" role="document">
         <div className="modal-content">
           <div className="modal-header">
-            <h5 className="modal-title text-black" id="exampleModalLabel" >BIOTINA</h5>
+            <h5 className="modal-title text-black" id="exampleModalLabel" >Peau D'ange Colágeno hidrolizado + Biotina</h5>
             <button type="button" className="close" data-dismiss="modal" aria-label="Close">
               <span aria-hidden="true">&times;</span>
             </button>
@@ -165,7 +142,7 @@ class Product extends Component {
     <img  src={blue_bottle} height={150}  className="center-block"  alt="Second slide" />
     <div className="padding_10">
     <button type="button" class="btn btn-danger btn-sm btn-block" data-toggle="modal" data-target="#Citrato_Z2_cropped">
-     Closuro de Magnesio
+     Magnelife Cloruro de magnesio
     </button>
     
     <div class="modal fade" id="Citrato_Z2_cropped" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -181,7 +158,7 @@ class Product extends Component {
           <img  src={blue_bottle}   alt="magnesio botella" />
 
           <p>
-            Closuro de Magnesio
+            Magnelife Cloruro de magnesio
           </p>
           </div>
           <div class="modal-footer">
