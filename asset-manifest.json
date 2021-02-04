@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.5844a007.chunk.css",
-    "main.js": "/static/js/main.a1ebdcfb.chunk.js",
-    "main.js.map": "/static/js/main.a1ebdcfb.chunk.js.map",
+    "main.js": "/static/js/main.054b8490.chunk.js",
+    "main.js.map": "/static/js/main.054b8490.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.94f1253a.js",
     "runtime-main.js.map": "/static/js/runtime-main.94f1253a.js.map",
     "static/js/2.0694182a.chunk.js": "/static/js/2.0694182a.chunk.js",
@@ -17,7 +17,7 @@
     "static/media/geah_logo_estetica2.674d9d16.jpeg": "/static/media/geah_logo_estetica2.674d9d16.jpeg",
     "static/media/geah_logo_sb.959054a0.png": "/static/media/geah_logo_sb.959054a0.png",
     "static/media/geah_pharm3.476fe1c7.png": "/static/media/geah_pharm3.476fe1c7.png",
-    "static/media/geah_pharm_logo1.2a22c5b1.jpg": "/static/media/geah_pharm_logo1.2a22c5b1.jpg",
+    "static/media/geah_pharm_logo3.d5f3d3cb.png": "/static/media/geah_pharm_logo3.d5f3d3cb.png",
     "static/media/geah_slideshow_combo_1.71e279a7.jpg": "/static/media/geah_slideshow_combo_1.71e279a7.jpg",
     "static/media/geah_slideshow_combo_2.36f3fd3d.jpg": "/static/media/geah_slideshow_combo_2.36f3fd3d.jpg",
     "static/media/geah_slideshow_combo_3.430f47b0.jpg": "/static/media/geah_slideshow_combo_3.430f47b0.jpg",
@@ -32,6 +32,6 @@
     "static/js/runtime-main.94f1253a.js",
     "static/js/2.0694182a.chunk.js",
     "static/css/main.5844a007.chunk.css",
-    "static/js/main.a1ebdcfb.chunk.js"
+    "static/js/main.054b8490.chunk.js"
   ]
 }
