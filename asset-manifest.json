@@ -1,19 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.a6d4edde.chunk.css",
-    "main.js": "/static/js/main.edb823af.chunk.js",
-    "main.js.map": "/static/js/main.edb823af.chunk.js.map",
+    "main.css": "/static/css/main.30a093f8.chunk.css",
+    "main.js": "/static/js/main.59f35423.chunk.js",
+    "main.js.map": "/static/js/main.59f35423.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.94f1253a.js",
     "runtime-main.js.map": "/static/js/runtime-main.94f1253a.js.map",
-    "static/js/2.0694182a.chunk.js": "/static/js/2.0694182a.chunk.js",
-    "static/js/2.0694182a.chunk.js.map": "/static/js/2.0694182a.chunk.js.map",
+    "static/js/2.25d8829b.chunk.js": "/static/js/2.25d8829b.chunk.js",
+    "static/js/2.25d8829b.chunk.js.map": "/static/js/2.25d8829b.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.a6d4edde.chunk.css.map": "/static/css/main.a6d4edde.chunk.css.map",
-    "static/js/2.0694182a.chunk.js.LICENSE.txt": "/static/js/2.0694182a.chunk.js.LICENSE.txt",
-    "static/media/Biotina_pink.d9bded26.png": "/static/media/Biotina_pink.d9bded26.png",
-    "static/media/PAP_Premium_black.5452e33b.png": "/static/media/PAP_Premium_black.5452e33b.png",
-    "static/media/blue_bottle.905cbb22.png": "/static/media/blue_bottle.905cbb22.png",
-    "static/media/camu_orange.8ae86c1d.png": "/static/media/camu_orange.8ae86c1d.png",
+    "static/css/main.30a093f8.chunk.css.map": "/static/css/main.30a093f8.chunk.css.map",
+    "static/js/2.25d8829b.chunk.js.LICENSE.txt": "/static/js/2.25d8829b.chunk.js.LICENSE.txt",
     "static/media/geah_logo_estetica2.674d9d16.jpeg": "/static/media/geah_logo_estetica2.674d9d16.jpeg",
     "static/media/geah_logo_gg.0fa2caee.png": "/static/media/geah_logo_gg.0fa2caee.png",
     "static/media/geah_logo_gg_white.8fbd6807.png": "/static/media/geah_logo_gg_white.8fbd6807.png",
@@ -23,17 +19,12 @@
     "static/media/geah_slideshow_combo_1.71e279a7.jpg": "/static/media/geah_slideshow_combo_1.71e279a7.jpg",
     "static/media/geah_slideshow_combo_2.36f3fd3d.jpg": "/static/media/geah_slideshow_combo_2.36f3fd3d.jpg",
     "static/media/geah_slideshow_combo_3.430f47b0.jpg": "/static/media/geah_slideshow_combo_3.430f47b0.jpg",
-    "static/media/geri_card_8.65223f1d.jpeg": "/static/media/geri_card_8.65223f1d.jpeg",
-    "static/media/pap_2_inst.e5d2e23b.png": "/static/media/pap_2_inst.e5d2e23b.png",
-    "static/media/pap_inst.b9420527.png": "/static/media/pap_inst.b9420527.png",
-    "static/media/pap_prem_inst.df067bb2.png": "/static/media/pap_prem_inst.df067bb2.png",
-    "static/media/red_bottle_1.60b18f20.png": "/static/media/red_bottle_1.60b18f20.png",
-    "static/media/reg_vitamin2.a8b03866.png": "/static/media/reg_vitamin2.a8b03866.png"
+    "static/media/geri_card_8.65223f1d.jpeg": "/static/media/geri_card_8.65223f1d.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.94f1253a.js",
-    "static/js/2.0694182a.chunk.js",
-    "static/css/main.a6d4edde.chunk.css",
-    "static/js/main.edb823af.chunk.js"
+    "static/js/2.25d8829b.chunk.js",
+    "static/css/main.30a093f8.chunk.css",
+    "static/js/main.59f35423.chunk.js"
   ]
 }
