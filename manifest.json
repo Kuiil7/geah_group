@@ -6,7 +6,7 @@
     "background_color": "#fff",
     "description": "GEAH Group app.",
     "icons": [{
-      "src": "../images/geah_logo_gg_white.png",
+      "src": "../images/geah_logo_gg.png",
       "sizes": "192x192",
       "type": "image/png"
     }]
