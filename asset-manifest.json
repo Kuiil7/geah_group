@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.a221760c.chunk.css",
-    "main.js": "/static/js/main.54ebbcbd.chunk.js",
-    "main.js.map": "/static/js/main.54ebbcbd.chunk.js.map",
+    "main.js": "/static/js/main.c7d27187.chunk.js",
+    "main.js.map": "/static/js/main.c7d27187.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.94f1253a.js",
     "runtime-main.js.map": "/static/js/runtime-main.94f1253a.js.map",
     "static/js/2.6df3d247.chunk.js": "/static/js/2.6df3d247.chunk.js",
@@ -10,9 +10,9 @@
     "index.html": "/index.html",
     "static/css/main.a221760c.chunk.css.map": "/static/css/main.a221760c.chunk.css.map",
     "static/js/2.6df3d247.chunk.js.LICENSE.txt": "/static/js/2.6df3d247.chunk.js.LICENSE.txt",
-    "static/media/child_car_1.af75de6e.jpeg": "/static/media/child_car_1.af75de6e.jpeg",
     "static/media/geah_coll_reg2_iv_1.443056b2.jpg": "/static/media/geah_coll_reg2_iv_1.443056b2.jpg",
     "static/media/geah_coll_reg_5.48595a7c.jpeg": "/static/media/geah_coll_reg_5.48595a7c.jpeg",
+    "static/media/geah_coll_reg_7.3322c3e1.jpeg": "/static/media/geah_coll_reg_7.3322c3e1.jpeg",
     "static/media/geah_estetica_cover.823211d0.png": "/static/media/geah_estetica_cover.823211d0.png",
     "static/media/geah_logo_estetica_2.674d9d16.jpeg": "/static/media/geah_logo_estetica_2.674d9d16.jpeg",
     "static/media/geah_logo_gg.0fa2caee.png": "/static/media/geah_logo_gg.0fa2caee.png",
@@ -20,9 +20,6 @@
     "static/media/geah_logo_pharm_3.476fe1c7.png": "/static/media/geah_logo_pharm_3.476fe1c7.png",
     "static/media/geah_logos_sbv2.cfbbad71.png": "/static/media/geah_logos_sbv2.cfbbad71.png",
     "static/media/geah_salud_cover.b5bc575f.png": "/static/media/geah_salud_cover.b5bc575f.png",
-    "static/media/geah_slideshow_cover_family1.fda30ea1.jpeg": "/static/media/geah_slideshow_cover_family1.fda30ea1.jpeg",
-    "static/media/geah_slideshow_cover_injection.2533a308.jpeg": "/static/media/geah_slideshow_cover_injection.2533a308.jpeg",
-    "static/media/geah_slideshow_vitC_couple.51b55cda.jpg": "/static/media/geah_slideshow_vitC_couple.51b55cda.jpg",
     "static/media/geri_2.2c86962c.png": "/static/media/geri_2.2c86962c.png",
     "static/media/geri_card_8.65223f1d.jpeg": "/static/media/geri_card_8.65223f1d.jpeg"
   },
@@ -30,6 +27,6 @@
     "static/js/runtime-main.94f1253a.js",
     "static/js/2.6df3d247.chunk.js",
     "static/css/main.a221760c.chunk.css",
-    "static/js/main.54ebbcbd.chunk.js"
+    "static/js/main.c7d27187.chunk.js"
   ]
 }
