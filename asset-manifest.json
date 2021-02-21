@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.a221760c.chunk.css",
-    "main.js": "/static/js/main.a29d78c9.chunk.js",
-    "main.js.map": "/static/js/main.a29d78c9.chunk.js.map",
+    "main.js": "/static/js/main.c61bcce7.chunk.js",
+    "main.js.map": "/static/js/main.c61bcce7.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.94f1253a.js",
     "runtime-main.js.map": "/static/js/runtime-main.94f1253a.js.map",
     "static/js/2.9400d0b7.chunk.js": "/static/js/2.9400d0b7.chunk.js",
@@ -10,8 +10,11 @@
     "index.html": "/index.html",
     "static/css/main.a221760c.chunk.css.map": "/static/css/main.a221760c.chunk.css.map",
     "static/js/2.9400d0b7.chunk.js.LICENSE.txt": "/static/js/2.9400d0b7.chunk.js.LICENSE.txt",
+    "static/media/geah_coll_closuro.e76df097.jpeg": "/static/media/geah_coll_closuro.e76df097.jpeg",
+    "static/media/geah_coll_colhid_fru.6c691743.jpeg": "/static/media/geah_coll_colhid_fru.6c691743.jpeg",
     "static/media/geah_coll_reg2_iv_1.443056b2.jpg": "/static/media/geah_coll_reg2_iv_1.443056b2.jpg",
     "static/media/geah_coll_reg_2.fcb52b3c.jpeg": "/static/media/geah_coll_reg_2.fcb52b3c.jpeg",
+    "static/media/geah_coll_reg_5.48595a7c.jpeg": "/static/media/geah_coll_reg_5.48595a7c.jpeg",
     "static/media/geah_coll_reg_7.3322c3e1.jpeg": "/static/media/geah_coll_reg_7.3322c3e1.jpeg",
     "static/media/geah_estetica_cover.823211d0.png": "/static/media/geah_estetica_cover.823211d0.png",
     "static/media/geah_logo_estetica_2.674d9d16.jpeg": "/static/media/geah_logo_estetica_2.674d9d16.jpeg",
@@ -28,6 +31,6 @@
     "static/js/runtime-main.94f1253a.js",
     "static/js/2.9400d0b7.chunk.js",
     "static/css/main.a221760c.chunk.css",
-    "static/js/main.a29d78c9.chunk.js"
+    "static/js/main.c61bcce7.chunk.js"
   ]
 }
