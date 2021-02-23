@@ -1,21 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.a221760c.chunk.css",
-    "main.js": "/static/js/main.a8266480.chunk.js",
-    "main.js.map": "/static/js/main.a8266480.chunk.js.map",
+    "main.css": "/static/css/main.dd254ac0.chunk.css",
+    "main.js": "/static/js/main.b184a88d.chunk.js",
+    "main.js.map": "/static/js/main.b184a88d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.94f1253a.js",
     "runtime-main.js.map": "/static/js/runtime-main.94f1253a.js.map",
     "static/js/2.fb0dd218.chunk.js": "/static/js/2.fb0dd218.chunk.js",
     "static/js/2.fb0dd218.chunk.js.map": "/static/js/2.fb0dd218.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.a221760c.chunk.css.map": "/static/css/main.a221760c.chunk.css.map",
+    "static/css/main.dd254ac0.chunk.css.map": "/static/css/main.dd254ac0.chunk.css.map",
     "static/js/2.fb0dd218.chunk.js.LICENSE.txt": "/static/js/2.fb0dd218.chunk.js.LICENSE.txt",
     "static/media/Biotina_pink.d9bded26.png": "/static/media/Biotina_pink.d9bded26.png",
     "static/media/PAP_Premium_black.5452e33b.png": "/static/media/PAP_Premium_black.5452e33b.png",
     "static/media/blue_bottle.905cbb22.png": "/static/media/blue_bottle.905cbb22.png",
     "static/media/camu_orange.8ae86c1d.png": "/static/media/camu_orange.8ae86c1d.png",
-    "static/media/geah_coll_closuro.e76df097.jpeg": "/static/media/geah_coll_closuro.e76df097.jpeg",
-    "static/media/geah_coll_colhid_fru.6c691743.jpeg": "/static/media/geah_coll_colhid_fru.6c691743.jpeg",
     "static/media/geah_coll_reg2_iv_1.443056b2.jpg": "/static/media/geah_coll_reg2_iv_1.443056b2.jpg",
     "static/media/geah_coll_reg_2.fcb52b3c.jpeg": "/static/media/geah_coll_reg_2.fcb52b3c.jpeg",
     "static/media/geah_coll_reg_4.85446e04.jpeg": "/static/media/geah_coll_reg_4.85446e04.jpeg",
@@ -24,7 +22,6 @@
     "static/media/geah_estetica_cover.823211d0.png": "/static/media/geah_estetica_cover.823211d0.png",
     "static/media/geah_logo_estetica_2.674d9d16.jpeg": "/static/media/geah_logo_estetica_2.674d9d16.jpeg",
     "static/media/geah_logo_gg.0fa2caee.png": "/static/media/geah_logo_gg.0fa2caee.png",
-    "static/media/geah_logo_gg_white.8fbd6807.png": "/static/media/geah_logo_gg_white.8fbd6807.png",
     "static/media/geah_logo_pharm_3.476fe1c7.png": "/static/media/geah_logo_pharm_3.476fe1c7.png",
     "static/media/geah_logos_sbv2.cfbbad71.png": "/static/media/geah_logos_sbv2.cfbbad71.png",
     "static/media/geah_salud_cover.b5bc575f.png": "/static/media/geah_salud_cover.b5bc575f.png",
@@ -36,7 +33,7 @@
   "entrypoints": [
     "static/js/runtime-main.94f1253a.js",
     "static/js/2.fb0dd218.chunk.js",
-    "static/css/main.a221760c.chunk.css",
-    "static/js/main.a8266480.chunk.js"
+    "static/css/main.dd254ac0.chunk.css",
+    "static/js/main.b184a88d.chunk.js"
   ]
 }
