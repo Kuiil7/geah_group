@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.ca6ac1d8.chunk.css",
-    "main.js": "/static/js/main.99e535e5.chunk.js",
-    "main.js.map": "/static/js/main.99e535e5.chunk.js.map",
+    "main.css": "/static/css/main.04125336.chunk.css",
+    "main.js": "/static/js/main.5228dcb2.chunk.js",
+    "main.js.map": "/static/js/main.5228dcb2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.94f1253a.js",
     "runtime-main.js.map": "/static/js/runtime-main.94f1253a.js.map",
     "static/js/2.9400d0b7.chunk.js": "/static/js/2.9400d0b7.chunk.js",
     "static/js/2.9400d0b7.chunk.js.map": "/static/js/2.9400d0b7.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.ca6ac1d8.chunk.css.map": "/static/css/main.ca6ac1d8.chunk.css.map",
+    "static/css/main.04125336.chunk.css.map": "/static/css/main.04125336.chunk.css.map",
     "static/js/2.9400d0b7.chunk.js.LICENSE.txt": "/static/js/2.9400d0b7.chunk.js.LICENSE.txt",
     "static/media/Biotina_pink.d9bded26.png": "/static/media/Biotina_pink.d9bded26.png",
     "static/media/PAP_Premium_black.5452e33b.png": "/static/media/PAP_Premium_black.5452e33b.png",
@@ -20,6 +20,7 @@
     "static/media/geah_coll_reg_5.48595a7c.jpeg": "/static/media/geah_coll_reg_5.48595a7c.jpeg",
     "static/media/geah_coll_reg_7.3322c3e1.jpeg": "/static/media/geah_coll_reg_7.3322c3e1.jpeg",
     "static/media/geah_estetica_cover.823211d0.png": "/static/media/geah_estetica_cover.823211d0.png",
+    "static/media/geah_landing_3.451742df.jpg": "/static/media/geah_landing_3.451742df.jpg",
     "static/media/geah_logo_estetica_2.674d9d16.jpeg": "/static/media/geah_logo_estetica_2.674d9d16.jpeg",
     "static/media/geah_logo_gg.0fa2caee.png": "/static/media/geah_logo_gg.0fa2caee.png",
     "static/media/geah_logo_pharm_3.476fe1c7.png": "/static/media/geah_logo_pharm_3.476fe1c7.png",
@@ -32,7 +33,7 @@
   "entrypoints": [
     "static/js/runtime-main.94f1253a.js",
     "static/js/2.9400d0b7.chunk.js",
-    "static/css/main.ca6ac1d8.chunk.css",
-    "static/js/main.99e535e5.chunk.js"
+    "static/css/main.04125336.chunk.css",
+    "static/js/main.5228dcb2.chunk.js"
   ]
 }
