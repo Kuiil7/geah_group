@@ -1,12 +1,12 @@
 {
-    "name": "GEAH GROUP",
-    "short_name": "GEAH",
+    "name": "JGAMWORKS.COM",
+    "short_name": "JGAM",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#fff",
-    "description": "GEAH Group app.",
+    "description": "Jose Aguilera Merino's portfolio",
     "icons": [{
-      "src": "../images/geah_logo_gray.png",
+      "src": "../images/logo_wrench.png",
       "sizes": "192x192",
       "type": "image/png"
     }]
