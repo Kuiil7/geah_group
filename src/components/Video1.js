@@ -8,7 +8,7 @@ class Video1 extends Component {
             <ReactPlayer
             className='react-player'
             url={[
-                {src: 'videos/geah_video_vitC.mp4', type: 'video/mp4'},
+                {src: process.env.PUBLIC_URL + 'videos/geah_video_vitC.mp4', type: 'video/mp4'},
               ]}
             width='100%'
             height='100%'

@@ -7,7 +7,7 @@ const Products = () => {
     {
       id: 1,
       name: "PeaudD'ange Colágeno Hidrolizado + Biotina",
-      imageUrl: ("../images/bottles/biotina_pink.png"),
+      imageUrl: (process.env.PUBLIC_URL + "../images/bottles/Biotina_pink.png"),
       usage: "MODO DE USO: Mezclar una cuchara (10gr.) en agua, infuciones o jugos en las mañanas o en las noches.",
       ingredients: "Colageno Hidrolizado, vitamina C (acido ascorbico), biotina, camu camu, stevia y sabor limon",
       status: "Disponible"
@@ -15,28 +15,28 @@ const Products = () => {
     {
       id: 2,
       name: "Regeneratur Vitamina C",
-      imageUrl: ( "../images/bottles/reg_vitamin2.png"),
+      imageUrl: (process.env.PUBLIC_URL + "../images/bottles/reg_vitamin2.png"),
       usage: "Mezclar una cuchara (10gr.) en agua, infuciones o jugos en las mañanas o en las noches.",
       status: "Disponible"
     },
     {
       id: 3,
       name: "CamuPlus Vitamina C",
-      imageUrl: ("../images/bottles/camu_orange.png"),
+      imageUrl: (process.env.PUBLIC_URL + "../images/bottles/camu_orange.png"),
       usage: "Mezclar una cuchara (10gr.) en agua, infuciones o jugos en las mañanas o en las noches.",
       status: "Disponible"
     },
     {
       id: 4,
       name: "Magne-life Closuro de Magnesio",
-      imageUrl: ("../images/bottles/blue_bottle.png"),
+      imageUrl: (process.env.PUBLIC_URL + "../images/bottles/blue_bottle.png"),
       usage: "Mezclar una cuchara (10gr.) en agua, infuciones o jugos en las mañanas o en las noches.",
       status: "Disponible"
     },
   {
     id: 5,
     name: "Peau de'Ange: Premium Fruta Rojas",
-    imageUrl: ("../images/bottles/frutos_rojos.png"),
+    imageUrl: (process.env.PUBLIC_URL + "../images/bottles/frutos_rojos.png"),
     usage: "Mezclar una cuchara (10gr.) en agua, infuciones o jugos en las mañanas o en las noches.",
     status: "Disponible"
   },
@@ -45,7 +45,7 @@ const Products = () => {
     {
       id: 6,
       name: "Peau deAnge: Premium",
-      imageUrl: ("../images/bottles/PAP_Premium_black.png"),
+      imageUrl: (process.env.PUBLIC_URL + "../images/bottles/PAP_Premium_black.png"),
       usage: "Mezclar una cuchara (10gr.) en agua, infuciones o jugos en las mañanas o en las noches.",
       status: "Available"
     }

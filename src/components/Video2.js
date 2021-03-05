@@ -1,22 +1,11 @@
 import React, { Component } from "react";
-import ReactPlayer from 'react-player'
 
 class Video2 extends Component {
     render () {
         return (
-        <div className='player-wrapper'>
-            <ReactPlayer
-            className='react-player'
-             url={[
-                {src: 'videos/geah_video_reg2.mp4',
-                 type: 'video/mp4'},
-              ]}
-            width='100%'
-            height='100%'
-            controls = {true}
-
-            />
-        </div>
+            <div >
+            <iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FMedicinaEsteticaMystik%2Fvideos%2F2572513649634383%2F&show_text=false&width=264" height={500} title="Regeneratur Vitamin C"></iframe>
+                </div>
         )
     }
 }
