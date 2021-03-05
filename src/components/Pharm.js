@@ -2,11 +2,6 @@ import React, { Component } from "react";
 
 import { NavLink,} from "react-router-dom";
 
-
-import Cards from "../components/Cards";
-
-import geah_logo_pharm_3  from "../images/geah_logo_pharm_3.png";
-
 import biotina_pink from "../images/bottles/Biotina_pink.png";
 
 import blue_bottle from "../images/bottles/blue_bottle.png";
@@ -19,17 +14,16 @@ import frutos_rojos from "../images/bottles/frutos_rojos.png";
 
 import Regeneratur from "../components/Regeneratur";
 
-import Video1 from "../components/Video1";
 
 
 class Pharm extends Component {
     render() {
       return (
-<div className="container mt-6">
+<div className="container mt-6" >
 
 
 
-<section class="hero is-small is-link ">
+<section class="hero is-small is-link " style={{marginTop:"60px"}}>
 
   <div class="hero-body ">
     <p class="title ">

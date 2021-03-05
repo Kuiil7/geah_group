@@ -9,24 +9,24 @@ class Nosotros extends Component {
       return (
 <div className="container  "   style={{marginTop:"50px"}}>
 
-<section class="hero is-link ">
+<section class="hero is-link pt-6 ">
   <div class="hero-body container">
     <p class="title">
    Nosotros
     </p>
-
   </div>
 </section>
 
-<div class="columns pb-4 ">
-  <div class="column  is-flex-wrap-wrap is-4 is-justify-content-end">
 
+<div class="columns">
+  <div class="column is-6
+
+">
+    <section className="hero is-link">
   <figure class="image ">
   <img src={geri_card_8} class="fade-in  " alt="self-portrait" />
   </figure>
-
-  <section class="hero is-small is-link ">
-  <div class="hero-body" >
+  <div class="hero-body " >
     <p class="title">
     <h3>Geraldine  <strong>Huiñac Figueroa </strong></h3>
     </p>
@@ -34,17 +34,11 @@ class Nosotros extends Component {
  Fundadora
      </p>
   </div>
-</section>
-<div>
-     </div>
+  </section>
 </div>
+  <div class="column"><div class="column has-text-justified ">
 
-
-
-<div class="columns pr-5 pl-5  pt-5">
-  <div class="column has-text-justified ">
-
-  <p className="pb-2 "><strong>GEAH GROUP</strong> fue fundado en 2019 por <strong> Geraldine Huiñac Figueroa</strong>, creando así una experiencia completamente nueva para los consumidores más exigentes al introducirse en el rubro de <strong>salud y belleza </strong>.</p>
+<p className="pb-2 "><strong>GEAH GROUP</strong> fue fundado en 2019 por <strong> Geraldine Huiñac Figueroa</strong>, creando así una experiencia completamente nueva para los consumidores más exigentes al introducirse en el rubro de <strong>salud y belleza </strong>.</p>
 
 <p className="pb-2 ">
 <strong>GEAH PHARM </strong>cuenta con suplementos nutricionales elaborados con los insumos más sublimes, nutritivos y naturales del Peru. GEAH PHARM comercializa sus productos a nivel nacional.
@@ -58,10 +52,12 @@ class Nosotros extends Component {
 Llevamos calidad de vida al hogar de cada peruano, avalados por instituciones nacionales referentes a salud. Caracterizados por tener un compromiso constante en desarrollar nuevos productos que satisfagan las necesidades que hay en el mercado. Estamos comprometidos con el cuidado de la salud y la belleza de todos los peruanos.
 
 </p>
-  </div>
-</div>
+
 </div>
 <Logos />
+</div>
+</div>
+
        </div>
 
 

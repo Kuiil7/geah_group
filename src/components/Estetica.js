@@ -11,19 +11,20 @@ class Estetica extends Component {
 
 <div className="container" style={{marginTop:"60px"}}>
 
-  <div class="hero  is-full is-justify-content-center mb-5 container">
-  <img alt="four women in bikini "  className="is-fluid" src={geah_estetica_cover} />
-
-  </div>
-
-  <div class=" p-4  ">
-
-  <h3 className="title ">
-    <strong>
-    Ponemos a tu disposición productos para el cuidado de tu salud e imagen. Brindamos cursos en salud, estéticos y servicios de cuidado personal. Garantizamos el mejor cuidado de tu imagen y salud.
-  </strong>
-</h3>
-  <ul  >
+<div class="columns">
+  <div class="column is-full">
+    <section class="hero is-full">
+  <div class="hero-body">
+  <figure className="image   " >
+  <img alt="four women in bikini "  className="" src={geah_estetica_cover} />
+  </figure>
+  <h1 className="title pb-4">
+  <strong>
+  Ponemos a tu disposición productos para el cuidado de tu salud e imagen. Brindamos cursos en salud, estéticos y servicios de cuidado personal. Garantizamos el mejor cuidado de tu imagen y salud
+    </strong>
+    </h1>
+    <p class="subtitle">
+    <ul  >
   <li >  - Limpiezas faciales</li>
   <li >- Megadosis de vitamina C endovenosa</li>
   <li >- Mesoterapia- reducción de papada y cachetes</li>
@@ -38,10 +39,12 @@ class Estetica extends Component {
   <li >- Taller de inyectables básico aplicados a la estética
 </li>
 </ul>
-
-    </div>
+    </p>
+  </div>
+</section>
 </div>
-
+  </div>
+</div>
 
 
       );
