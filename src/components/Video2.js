@@ -7,7 +7,10 @@ class Video2 extends Component {
         <div className='player-wrapper'>
             <ReactPlayer
             className='react-player'
-            url= 'videos/geah_video_reg2.MP4'
+             url={[
+                {src: 'videos/geah_video_reg2.mp4',
+                 type: 'video/mp4'},
+              ]}
             width='100%'
             height='100%'
             controls = {true}
