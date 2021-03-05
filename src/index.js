@@ -1,9 +1,14 @@
-import React from "react";
-import ReactDOM from "react-dom";
-import Main from "./components/Main";
-import "./index.css";
- 
+import React from 'react';
+import ReactDOM from 'react-dom';
+import './index.css';
+import NavBar from './components/NavBar';
+import reportWebVitals from './reportWebVitals';
+
+
 ReactDOM.render(
-  <Main/>, 
+
+  <NavBar />,
   document.getElementById("root")
 );
+
+reportWebVitals();
