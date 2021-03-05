@@ -9,7 +9,7 @@ class Nosotros extends Component {
       return (
 <div className="container  "   style={{marginTop:"50px"}}>
 
-<section class="hero is-link pt-6 ">
+<section class="hero is-link p-2 ">
   <div class="hero-body container">
     <p class="title">
    Nosotros
