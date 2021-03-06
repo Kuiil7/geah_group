@@ -1,23 +1,23 @@
 
   function Footer () {
   return (
-  <div class="content  mt-4 ">
+  <div className="content  mt-4 ">
   <div   className="p-2  is-justify-content-center is-flex ">
 
 <div  className="columns ">
   < div className="column ">
   <h5>
-    Contacto
+    CONTACTO
       </h5>
-  <a href="https://api.whatsapp.com/send?phone=+51997672947" >
-      <i className="fab fa-whatsapp  "> 997 672 947  |
+  <a href="https://api.whatsapp.com/send?phone=+51997672947"  >
+      <i className="fab fa-whatsapp"> 997 672 947  |
  </i>
  </a>
  <a href="https://api.whatsapp.com/send?phone=+51997672947" className="p-2"  >
  <i className="fab ">   973 364 627  </i>
  </a>
  <a href="https://api.whatsapp.com/send?phone=+51997672947" className="float " >
-<i className="fab fa-whatsapp my-float fa-lg"> </i>
+<i className="fab fa-whatsapp Whatsapp_float fa-lg"> </i>
 </a>
 <br />
 <a href="mailto:geahgrupo@gmail.ocm"  >
@@ -27,7 +27,7 @@ geahgroup@gmail.com</a>
 
   < div className="column">
   <h5>
-      Dirección
+      DIRECCÍON
       </h5>
       <p>
      <iframe title="Google Maps"  src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3900.2937853801!2d-76.9700528!3d-12.1603909!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105b859d0ec00d7%3A0x55ef6c5039ef07a3!2sAv.%20Guillermo%20Billinghurst%20787%2C%20San%20Juan%20de%20Miraflores%2015801%2C%20Peru!5e0!3m2!1sen!2sus!4v1609308430550!5m2!1sen!2sus" width="100%" height="70px" frameBorder="0"  aria-hidden="false" tabIndex="0"></iframe>
@@ -39,9 +39,9 @@ geahgroup@gmail.com</a>
     </div>
 
 
-    <div class="columns pr-3 pl-3 pb-3 has-text-centered is-mobile">
+    <div className="columns pr-3 pl-3 pb-3 has-text-centered is-mobile">
 
-  <div class="column">
+  <div className="column">
   <p>GEAH PHARM</p>
 
 
@@ -53,7 +53,7 @@ geahgroup@gmail.com</a>
        </a>
   </div>
 
-  <div class="column">
+  <div className="column">
   <p> MEDICINA ESTÉTICA </p>
 
 <a  href="https://www.instagram.com/medicinaestetica_geah/" >
@@ -66,18 +66,13 @@ geahgroup@gmail.com</a>
 
 
 
-  <div class="column">
+  <div className="column">
   <p> SALUD y BELLEZA </p>
 
 <a  href="https://www.facebook.com/GeahGroup/" className="p-2 text-dark"> <i className="fab fa-facebook-f fa-lg "></i>
 </a>
 </div>
-
 </div>
-
-
-
-
   </div>
 
 

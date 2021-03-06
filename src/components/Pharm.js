@@ -12,7 +12,6 @@ import reg_vitamin2 from "../images/bottles/reg_vitamin2.png";
 
 import frutos_rojos from "../images/bottles/frutos_rojos.png";
 
-import Regeneratur from "../components/Regeneratur";
 
 
 
@@ -26,7 +25,7 @@ class Pharm extends Component {
 <section className="hero is-small is-link " style={{marginTop:"60px"}}>
 
   <div className="hero-body ">
-    <p className="title ">
+    <p className="title is-1">
     GEAH PHARM
     </p>
     <p className="subtitle">
@@ -71,7 +70,7 @@ to="/products/4">
 </NavLink>
     </div>
 
-    <div class="column is-3">
+    <div class="column ">
   <NavLink  to="/products/3">
   <figure className="image " >
 <img  src={reg_vitamin2} alt={''}    />
@@ -79,14 +78,7 @@ to="/products/4">
 </NavLink>
     </div>
 </div>
-
-  <Regeneratur />
-
-       </div>
-
-
-
-
+</div>
       );
     }
   }

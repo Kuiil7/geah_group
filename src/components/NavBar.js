@@ -46,17 +46,17 @@ GEAH GROUP
 <div className={`navbar-menu ${isActive ? 'is-active' : ''}`}>
 <div className='navbar-end '>
 
-<div class="navbar-item has-dropdown is-hoverable">
+<div className="navbar-item has-dropdown is-hoverable">
         <NavLink className="navbar-item"
 to="/pharm">PHARM</NavLink>
-        <div class="navbar-dropdown">
+        <div className="navbar-dropdown">
         <NavLink className="navbar-item"
-to="/regeneratur">Regeneratur Vitamina C
+to="/products/2">Regeneratur Vitamina C
 </NavLink>
         <NavLink className="navbar-item"
 to="/products/1">PeaudD'ange Colágeno Hidrolizado + Biotina</NavLink>
        <NavLink className="navbar-item"
-to="/products/3">CamuPlus C</NavLink>
+to="/products/3">CamuPlus Vitamina C</NavLink>
        <NavLink className="navbar-item"
 to="/products/4">Magne-life Closuro de Magnesio</NavLink>
        <NavLink className="navbar-item"
@@ -64,8 +64,27 @@ to="/products/6">Peau de'Ange: Premium
 </NavLink>
        <NavLink className="navbar-item"
 to="/products/5">Peau de'Ange: Premium Frutos Rojos</NavLink>
+<div className="navbar-item has-dropdown is-hoverable">
+        <a className="navbar-link" href="#!"  >
+          Mas...
+        </a>
+        <div className="navbar-dropdown">
+        <NavLink className="navbar-item"
+to="/regeneratur">Beneficios de Regeneratur Vitamina C
+</NavLink>
+          <a className="navbar-item" href="#!" to>
+            Producto: #1 Coming soon
+          </a>
+          <a className="navbar-item" href="#!" to>
+          Producto: #2 Coming soon
+          </a>
 
         </div>
+      </div>
+
+        </div>
+
+
       </div>
 
   <div className='navbar-item '>
@@ -79,8 +98,6 @@ to="/salud"> SALUD Y BELLEZA </NavLink>
 
 <NavLink className="navbar-item"
 to="/nosotros"> NOSOTROS </NavLink>
-
-
 
 
       </div>

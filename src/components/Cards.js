@@ -16,7 +16,6 @@ const cardData = [
   name: "CamuPlus Vitamina C",
   imageUrl: ("../images/bottles/camu_orange.png"),
   usage: "MODO DE USO: Mezclar una cuchara (10gr.) en agua, infuciones o jugos en las mañanas o en las noches.",
-
   description: "Maecenas condimentum porttitor auctor. Maecenas viverra fringilla felis, eu pretium.",
   status: "Disponible"
 },
@@ -41,30 +40,24 @@ status: "Disponible"
 ]
 
 
-
-  function Cards () {
+function Cards () {
   return (
 
 <div className="container">
 <div className=" columns is-flex-wrap-wrap is-centered ">
-          {cardData.map((cardData, k) => (
-<div className="column is-one-fifth
-
-" key={k}>
-
-<div class="card p-2 ">
-  <div class="card-image  ">
+{cardData.map((cardData, k) => (
+<div className="column is-one-fifth" key={k}>
+<div className="card p-2 ">
+  <div className="card-image  ">
   <figure className="image   " >
 <img  src={cardData.imageUrl} alt={cardData.alt}    />
 </figure>
   </div>
-
 </div>
-
 </div>
-          ))}
-        </div>
-        </div>
+ ))}
+  </div>
+   </div>
     );
 
   };

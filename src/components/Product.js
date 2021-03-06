@@ -8,18 +8,45 @@ const Product = ({ data }) => {
 
   if (product) {
     productData = (
-      <div className="container p-2">
-        <h3 className="is-size-1">{product.name}</h3>
-        <img src={product.imageUrl}  alt="bottled products" classname="is-fluid p-4"/>
+      <div className="columns container pr-2 pl-2 is-5">
+        <div className="column">
+        <h3 className="is-size-4 pb-4"><strong>
+        {product.name}
+          </strong></h3>
+</div>
 
+<div className="column ">
+<figure className="image  ">
+        <img src={product.imageUrl}  alt="bottled products" />
+        </figure>
         <p>{product.description}</p>
+      </div>
 
-        <hr />
-        <h4 className="is-size-3 pb-3"> <strong>Modo de Uso </strong> {product.usage}</h4>
 
-        <p className="is-size-3 pb-3"><strong> Ingredientes </strong>{product.ingredients}</p>
+      <div className="column">
+      <div>
+        <h4 className=" pb-3">
+        <strong>MODO DE USO:
+          </strong>
+             {product.usage}
+        </h4>
+<p className=" pb-3">
+  <strong> INGREDIENTES: </strong>
+  {product.ingredients}
+  </p>
 
-        <h5 className="is-size-3 has-text-info"> <strong>Status</strong> {product.status}</h5>
+   <h5 className=" has-text-info ">
+
+   <strong>STATUS: </strong>
+   <button class="button is-success">
+
+   {product.status}
+   </button>
+   </h5>
+
+ </div>
+
+      </div>
       </div>
     );
   } else {

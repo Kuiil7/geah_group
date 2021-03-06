@@ -8,37 +8,37 @@ const Products = () => {
       id: 1,
       name: "PeaudD'ange Colágeno Hidrolizado + Biotina",
       imageUrl: (process.env.PUBLIC_URL + "../images/bottles/Biotina_pink.png"),
-      usage: "MODO DE USO: Mezclar una cuchara (10gr.) en agua, infuciones o jugos en las mañanas o en las noches.",
-      ingredients: "Colageno Hidrolizado, vitamina C (acido ascorbico), biotina, camu camu, stevia y sabor limon",
+      usage: " Mezclar una cuchara (10gr.) en agua, infuciones o jugos en las mañanas o en las noches.",
+      ingredients: " Colageno Hidrolizado, vitamina C (acido ascorbico), biotina, camu camu, stevia y sabor limon",
       status: "Disponible"
     },
     {
       id: 2,
       name: "Regeneratur Vitamina C",
       imageUrl: (process.env.PUBLIC_URL + "../images/bottles/reg_vitamin2.png"),
-      usage: "Mezclar una cuchara (10gr.) en agua, infuciones o jugos en las mañanas o en las noches.",
-      status: "Disponible"
+      usage: " Mezclar una cuchara (10gr.) en agua, infuciones o jugos en las mañanas o en las noches.",
+      status: " Disponible"
     },
     {
       id: 3,
       name: "CamuPlus Vitamina C",
       imageUrl: (process.env.PUBLIC_URL + "../images/bottles/camu_orange.png"),
-      usage: "Mezclar una cuchara (10gr.) en agua, infuciones o jugos en las mañanas o en las noches.",
-      status: "Disponible"
+      usage: " Mezclar una cuchara (10gr.) en agua, infuciones o jugos en las mañanas o en las noches.",
+      status: " Disponible"
     },
     {
       id: 4,
-      name: "Magne-life Closuro de Magnesio",
+      name: " Magne-life Closuro de Magnesio",
       imageUrl: (process.env.PUBLIC_URL + "../images/bottles/blue_bottle.png"),
-      usage: "Mezclar una cuchara (10gr.) en agua, infuciones o jugos en las mañanas o en las noches.",
-      status: "Disponible"
+      usage: " Mezclar una cuchara (10gr.) en agua, infuciones o jugos en las mañanas o en las noches.",
+      status: " Disponible"
     },
   {
     id: 5,
-    name: "Peau de'Ange: Premium Fruta Rojas",
+    name: " Peau de'Ange: Premium Fruta Rojas",
     imageUrl: (process.env.PUBLIC_URL + "../images/bottles/frutos_rojos.png"),
-    usage: "Mezclar una cuchara (10gr.) en agua, infuciones o jugos en las mañanas o en las noches.",
-    status: "Disponible"
+    usage: " Mezclar una cuchara (10gr.) en agua, infuciones o jugos en las mañanas o en las noches.",
+    status: " Disponible"
   },
 
 

@@ -10,11 +10,10 @@ class Estetica extends Component {
       return (
 
 <div className="container" style={{marginTop:"60px"}}>
-
-<div class="columns">
-  <div class="column is-full">
-    <section class="hero is-full">
-  <div class="hero-body">
+<div className="columns">
+  <div className="column is-full">
+    <section className="hero is-full">
+  <div className="hero-body">
   <figure className="image   " >
   <img alt="four women in bikini "  className="" src={geah_estetica_cover} />
   </figure>

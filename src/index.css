@@ -89,13 +89,13 @@ li {
 
 .float{
 	position:fixed;
-	width:55px;
-	height:55px;
+	width:63px;
+	height:63px;
 	bottom:40px;
 	right:40px;
 	background-color:#25d366;
 	color:#FFF;
-	border-radius:50px;
+	border-radius:70px;
 	text-align:center;
   font-size:30px;
 	box-shadow: 2px 2px 3px #999;
@@ -103,6 +103,6 @@ li {
 }
 
 .Whatsapp_float{
-	margin-top:16px;
+	margin-top:15px;
 }
 
