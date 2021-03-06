@@ -8,9 +8,9 @@ const Product = ({ data }) => {
 
   if (product) {
     productData = (
-      <div>
+      <div className="container p-2">
         <h3 className="is-size-1">{product.name}</h3>
-        <img src={product.imageUrl}  alt="bottled products" classname="is-fluid"/>
+        <img src={product.imageUrl}  alt="bottled products" classname="is-fluid p-4"/>
 
         <p>{product.description}</p>
 

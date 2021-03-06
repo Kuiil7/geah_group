@@ -35,7 +35,7 @@ class Pharm extends Component {
   </div>
 </section>
 
-<div className="columns is-flex-wrap-wrap is-centered pt-4">
+<div className="columns is-flex-wrap-wrap is-centered pt-4 ">
 
 <div className="column " >
 
@@ -48,6 +48,7 @@ to="/products/1">
   <img  src={biotina_pink} alt={''}    />
 </figure>
 </NavLink>
+
   </div>
 </div>
 </div>
