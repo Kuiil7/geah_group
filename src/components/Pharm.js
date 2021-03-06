@@ -36,11 +36,7 @@ class Pharm extends Component {
 </section>
 
 
-
-
-
 <div className="columns is-mobile mt-2 pr-4 pl-4">
-
 <div className="column ">
  <NavLink
 to="/products/1">

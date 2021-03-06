@@ -18,7 +18,7 @@ function Regeneratur () {
 
 <div class="columns">
 
-  <div class="column mt-6 ">
+  <div class="column  ">
   <section class="hero is-link ">
   <div class="hero-body  has-text-centered">
     <p class="title">
