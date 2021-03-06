@@ -9,7 +9,7 @@ class Nosotros extends Component {
       return (
 <div className="container  "   style={{marginTop:"50px"}}>
 
-<section className="hero is-link p-2 ">
+<section className="hero is-link  ">
   <div className="hero-body container">
     <p className="title">
    Nosotros
@@ -55,6 +55,7 @@ Llevamos calidad de vida al hogar de cada peruano, avalados por instituciones na
 
 </div>
 <Logos />
+
 </div>
 </div>
 

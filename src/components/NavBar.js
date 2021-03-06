@@ -54,7 +54,7 @@ to="/pharm">PHARM</NavLink>
 to="/products/2">Regeneratur Vitamina C
 </NavLink>
         <NavLink className="navbar-item"
-to="/products/1">PeaudD'ange Colágeno Hidrolizado + Biotina</NavLink>
+to="/products/1">Peaud d'ange Colágeno Hidrolizado + Biotina</NavLink>
        <NavLink className="navbar-item"
 to="/products/3">CamuPlus Vitamina C</NavLink>
        <NavLink className="navbar-item"
@@ -65,16 +65,16 @@ to="/products/6">Peau de'Ange: Premium
        <NavLink className="navbar-item"
 to="/products/5">Peau de'Ange: Premium Frutos Rojos</NavLink>
 <div className="navbar-item has-dropdown is-hoverable">
-      
+
         <div className="navbar-dropdown">
         <NavLink className="navbar-item"
 to="/regeneratur">Beneficios de Regeneratur Vitamina C
 </NavLink>
           <a className="navbar-item" href="#!">
-            Producto: #1 Coming soon
+            Producto: #1 vienes pronto
           </a>
           <a className="navbar-item" href="#!">
-          Producto: #2 Coming soon
+          Producto: #2 vienes pronto
           </a>
 
         </div>

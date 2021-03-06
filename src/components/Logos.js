@@ -26,10 +26,10 @@ const logoData = [
   return (
 
 
-<div className=" columns is-flex-wrap-wrap is-centered ">
+<div className=" columns is-flex-wrap-wrap is-centered is-mobile">
           {logoData.map((logoData, j) => (
 <div className="column is-one-fifth" key={j}>
-  <figure className="image  p-5 " >
+  <figure className="image " >
 <img  src={logoData.imageUrl} alt={logoData.alt} className=" is-rounded fade-in"/>
 </figure>
 </div>

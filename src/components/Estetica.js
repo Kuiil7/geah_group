@@ -15,7 +15,7 @@ class Estetica extends Component {
   <figure className="image   " >
   <img alt="four women in bikini "  className="" src={geah_estetica_cover} />
   </figure>
-  <p className="subtitle pb-4 pt-5 has-text-justified">
+  <p className="subtitle 6 pb-4 pt-5 has-text-justified">
   <strong>
   Ponemos a tu disposición productos para el cuidado de tu salud e imagen. Brindamos cursos en salud, estéticos y servicios de cuidado personal. Garantizamos el mejor cuidado de tu imagen y salud.
     </strong>
@@ -23,6 +23,7 @@ class Estetica extends Component {
     <div className="subtitle has-text-justified">
     <ul  >
   <li >  - Limpiezas faciales</li>
+  
   <li >- Megadosis de vitamina C endovenosa</li>
   <li >- Mesoterapia- reducción de papada y cachetes</li>
   <li >- Reductores y reafirmantes</li>
