@@ -47,13 +47,9 @@ GEAH GROUP
 <div className='navbar-end '>
 
 <div class="navbar-item has-dropdown is-hoverable">
-        <a className="navbar-link" href="/pharm">
-        <NavLink className="navbar-Link"
+        <NavLink className="navbar-item"
 to="/pharm">PHARM</NavLink>
-        </a>
-
         <div class="navbar-dropdown">
-
         <NavLink className="navbar-item"
 to="/regeneratur">Regeneratur Vitamina C
 </NavLink>
