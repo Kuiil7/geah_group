@@ -12,12 +12,13 @@ import geah_coll_reg_7 from "../images/collage/geah_coll_reg_7.jpeg"
 function Regeneratur () {
   return (
 
-<div className=""  >
+<div className="container
+"  >
 
 
 <div class="columns">
 
-  <div class="column ">
+  <div class="column mt-6 ">
   <section class="hero is-link ">
   <div class="hero-body  has-text-centered">
     <p class="title">

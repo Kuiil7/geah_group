@@ -19,9 +19,7 @@ class Nosotros extends Component {
 
 
 <div class="columns">
-  <div class="column is-6
-
-">
+  <div class="column is-6">
     <section className="hero is-link">
   <figure class="image ">
   <img src={geri_card_8} class="fade-in  " alt="self-portrait" />
