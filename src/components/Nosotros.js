@@ -9,32 +9,34 @@ class Nosotros extends Component {
       return (
 <div className="container  "   style={{marginTop:"50px"}}>
 
-<section class="hero is-link p-2 ">
-  <div class="hero-body container">
-    <p class="title">
+<section className="hero is-link p-2 ">
+  <div className="hero-body container">
+    <p className="title">
    Nosotros
     </p>
   </div>
 </section>
 
 
-<div class="columns">
-  <div class="column is-6">
+<div className="columns">
+  <div className="column is-6">
     <section className="hero is-link">
-  <figure class="image ">
-  <img src={geri_card_8} class="fade-in  " alt="self-portrait" />
+  <figure className="image ">
+  <img src={geri_card_8} className="fade-in " alt="self-portrait" />
   </figure>
-  <div class="hero-body " >
-    <p class="title">
-    <h3>Geraldine  <strong>Huiñac Figueroa </strong></h3>
+  <div className="hero-body " >
+    <p className="title 2">
+    Geraldine  <strong>Huiñac Figueroa </strong>
     </p>
-    <p class="subtitle">
+    <p className="subtitle">
  Fundadora
      </p>
   </div>
   </section>
+
+
 </div>
-  <div class="column"><div class="column has-text-justified ">
+  <div className="column"><div className="column has-text-justified ">
 
 <p className="pb-2 "><strong>GEAH GROUP</strong> fue fundado en 2019 por <strong> Geraldine Huiñac Figueroa</strong>, creando así una experiencia completamente nueva para los consumidores más exigentes al introducirse en el rubro de <strong>salud y belleza </strong>.</p>
 

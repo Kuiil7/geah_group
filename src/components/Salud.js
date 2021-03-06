@@ -16,12 +16,14 @@ class Salud extends Component {
   <figure className="image   " >
   <img alt="four women in bikini "  className="" src={geah_salud_cover} />
   </figure>
-  <h1 className="title pb-4">
+
+  < p className="title pb-4">
   <strong>
   ¡Un espacio de artistas!
     </strong>
-    </h1>
-    <p class="subtitle">
+    </p>
+
+    <p className="subtitle">
     Servicio de calidad con personal altamente calificado.
 Ponemos a tu disposición las mejores líneas del mercado de belleza.
 Manos mágicas que resaltarán tu belleza natural, la mejor versión de ti.

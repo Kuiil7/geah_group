@@ -68,13 +68,13 @@ const Products = () => {
 
       <div >
         <div  className="container mt-6"  >
-        <section class="hero is-small is-link ">
+        <section className="hero is-small is-link ">
 
-<div class="hero-body ">
-  <p class="title ">
+<div className="hero-body ">
+  <p className="title ">
   GEAH PHARM
   </p>
-  <p class="subtitle">
+  <p className="subtitle">
    "Los mejores cuidando tu salud"
   </p>
 </div>

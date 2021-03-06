@@ -65,17 +65,15 @@ to="/products/6">Peau de'Ange: Premium
        <NavLink className="navbar-item"
 to="/products/5">Peau de'Ange: Premium Frutos Rojos</NavLink>
 <div className="navbar-item has-dropdown is-hoverable">
-        <a className="navbar-link" href="#!"  >
-          Mas...
-        </a>
+      
         <div className="navbar-dropdown">
         <NavLink className="navbar-item"
 to="/regeneratur">Beneficios de Regeneratur Vitamina C
 </NavLink>
-          <a className="navbar-item" href="#!" to>
+          <a className="navbar-item" href="#!">
             Producto: #1 Coming soon
           </a>
-          <a className="navbar-item" href="#!" to>
+          <a className="navbar-item" href="#!">
           Producto: #2 Coming soon
           </a>
 

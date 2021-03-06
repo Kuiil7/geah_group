@@ -54,7 +54,7 @@ to="/products/4">
 </NavLink>
   </div>
 
-  <div class="column ">
+  <div className="column ">
   <NavLink  to="/products/3">
   <figure className="image" >
 <img  src={camu_orange} alt={''}    />
@@ -62,7 +62,7 @@ to="/products/4">
 </NavLink>
     </div>
 
-    <div class="column ">
+    <div className="column ">
   <NavLink  to="/products/3">
   <figure className="image" >
 <img  src={frutos_rojos} alt={''}    />
@@ -70,7 +70,7 @@ to="/products/4">
 </NavLink>
     </div>
 
-    <div class="column ">
+    <div className="column ">
   <NavLink  to="/products/3">
   <figure className="image " >
 <img  src={reg_vitamin2} alt={''}    />

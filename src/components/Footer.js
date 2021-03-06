@@ -20,7 +20,7 @@
 <i className="fab fa-whatsapp Whatsapp_float fa-lg"> </i>
 </a>
 <br />
-<a href="mailto:geahgrupo@gmail.ocm"  >
+<a href="mailto:geahgrupo@gmail.com"  >
 <i className="fas fa-envelope-open-text mr-2"></i>
 geahgroup@gmail.com</a>
   </div>

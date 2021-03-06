@@ -61,21 +61,17 @@ const data = [
         logo: "https://i.imgrz.com/RMw0.png",
         alt: "Final Cut Pro logo"
     }
-
     ];
 
 
-
-    function Icons () {
+function Icons () {
     return (
 <div className="columns p-2 ">
           {data.map((data) => (
 <div className="column " key={data.id}>
-
 <figure className="image is-fluid " >
 <img  src={data.logo} alt={data.alt}    />
 </figure>
-
 </div>
           ))}
         </div>

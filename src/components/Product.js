@@ -30,7 +30,7 @@ const Product = ({ data }) => {
           </strong>
              {product.usage}
         </h4>
-<p className=" pb-3">
+<p className=" pb-3 ">
   <strong> INGREDIENTES: </strong>
   {product.ingredients}
   </p>
@@ -38,12 +38,12 @@ const Product = ({ data }) => {
    <p className=" has-text-info ">
 
    <strong>STATUS: </strong>
-   <button class="button is-success">
 
-   {product.status}
-   </button>
    </p>
+   <button className="button is-success">
 
+{product.status}
+</button>
  </div>
 
       </div>
