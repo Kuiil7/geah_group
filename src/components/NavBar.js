@@ -72,13 +72,13 @@ to="/products/5">Peau de'Ange: Premium Frutos Rojos</NavLink>
 
 
 <NavLink className="navbar-item"
-to="/estetica">Medicina Estética</NavLink>
+to="/estetica">MEDICINA ESTÉTICA</NavLink>
 
 <NavLink className="navbar-item"
-to="/salud"> Salud y Belleza</NavLink>
+to="/salud"> SALUD Y BELLEZA </NavLink>
 
 <NavLink className="navbar-item"
-to="/nosotros"> Nosotros </NavLink>
+to="/nosotros"> NOSOTROS </NavLink>
 
 
 
