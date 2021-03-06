@@ -1,7 +1,7 @@
 
   function Footer () {
   return (
-  <div class="content  mt-5 ">
+  <div class="content  mt-4 ">
   <div   className="p-2  is-justify-content-center is-flex ">
 
 <div  className="columns ">
