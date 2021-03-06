@@ -23,91 +23,67 @@ class Pharm extends Component {
 
 
 
-<section class="hero is-small is-link " style={{marginTop:"60px"}}>
+<section className="hero is-small is-link " style={{marginTop:"60px"}}>
 
-  <div class="hero-body ">
-    <p class="title ">
+  <div className="hero-body ">
+    <p className="title ">
     GEAH PHARM
     </p>
-    <p class="subtitle">
+    <p className="subtitle">
      "Los mejores cuidando tu salud"
     </p>
   </div>
 </section>
 
-<div className="columns is-flex-wrap-wrap is-centered pt-4 ">
 
-<div className="column " >
 
-<div class="card p-4  ">
-  <div class="card-image  ">
 
-  <NavLink
+
+<div className="columns is-mobile mt-2">
+
+<div className="column ">
+ <NavLink
 to="/products/1">
-  <figure className="image p-4  " >
+  <figure className="image" >
   <img  src={biotina_pink} alt={''}    />
 </figure>
 </NavLink>
-
-  </div>
-</div>
 </div>
 
-<div className="column " >
-
-<div class="card p-4 ">
-  <div class="card-image p-4   ">
-
-<NavLink
+  <div className="column">
+  <NavLink
 to="/products/4">
-  <figure className="image   " >
+  <figure className="image" >
   <img  src={blue_bottle } alt={''}    />
 </figure>
 </NavLink>
   </div>
-</div>
-</div>
 
-<div className="column " >
-<div class="card p-4  ">
-  <div class="card-image p-4  ">
+  <div class="column ">
   <NavLink  to="/products/3">
-  <figure className="image   " >
+  <figure className="image" >
 <img  src={camu_orange} alt={''}    />
 </figure>
 </NavLink>
-  </div>
-</div>
-</div>
+    </div>
 
-<div className="column p-4  " >
-<div class="card  ">
-  <div class="card-image p-4 is-3  ">
-<NavLink  to="/products/5">
-  <figure className="image   " >
+    <div class="column ">
+  <NavLink  to="/products/3">
+  <figure className="image" >
 <img  src={frutos_rojos} alt={''}    />
 </figure>
 </NavLink>
+    </div>
 
-  </div>
-</div>
-</div>
-
-<div className="column p-4 is-3 " >
-<div class="card  ">
-  <div class="card-image p-4  ">
-
-<NavLink  to="/products/2">
-  <figure className="image   " >
+    <div class="column is-3">
+  <NavLink  to="/products/3">
+  <figure className="image " >
 <img  src={reg_vitamin2} alt={''}    />
 </figure>
 </NavLink>
-  </div>
-</div>
+    </div>
 </div>
 
-
-  </div>
   <Regeneratur />
 
        </div>
