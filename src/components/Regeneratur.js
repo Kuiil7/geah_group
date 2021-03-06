@@ -12,28 +12,22 @@ import geah_coll_reg_7 from "../images/collage/geah_coll_reg_7.jpeg"
 function Regeneratur () {
   return (
 
-<div className="container p-3">
+<div className=""  >
 
 
 <div class="columns">
-  <div class="column is-3 ">
-  <Video2 />
-  <NavLink className="navbar-item"
-to="/regeneratur">
-  <p>Regeneratur Vitamin C</p>
-  </NavLink >
 
-    </div>
   <div class="column ">
   <section class="hero is-link ">
-  <div class="hero-body container has-text-centered">
+  <div class="hero-body  has-text-centered">
     <p class="title">
   REGENERATUR VITAMINA C
     </p>
   </div>
 </section>
-<div className="has-text-justified">
-    <p className="pb-3" >
+
+<div className="has-text-justified p-2">
+    <p className=" pb-3" >
   Para funcionar correctamente, nuestro <strong> sistema inmunitario requiere equilibrio y armonía </strong>, por lo que hay que tener en cuenta que los nutrientes que ingerimos a través de nuestra dieta ejercen una gran influencia en él.Nuestras necesidades de ciertos nutrientes varían en función de una serie de factores, entre los que se incluyen los elementos externos.
     </p>
 
@@ -46,6 +40,13 @@ to="/regeneratur">
     </p>
   </div>
   </div>
+  <div class="column is-3 has-text-centered">
+<Video2/>
+  <NavLink
+to="/regeneratur">
+  <p>Regeneratur Vitamin C</p>
+  </NavLink >
+    </div>
 </div>
 
 
