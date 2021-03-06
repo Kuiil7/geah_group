@@ -35,14 +35,14 @@ const Product = ({ data }) => {
   {product.ingredients}
   </p>
 
-   <h5 className=" has-text-info ">
+   <p className=" has-text-info ">
 
    <strong>STATUS: </strong>
    <button class="button is-success">
 
    {product.status}
    </button>
-   </h5>
+   </p>
 
  </div>
 
