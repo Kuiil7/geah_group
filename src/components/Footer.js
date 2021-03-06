@@ -38,7 +38,6 @@ geahgroup@gmail.com</a>
 </div>
     </div>
 
-<br />
 
     <div class="columns pr-3 pl-3 pb-3 has-text-centered is-mobile">
 
