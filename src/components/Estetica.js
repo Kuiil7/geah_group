@@ -20,10 +20,10 @@ class Estetica extends Component {
   Ponemos a tu disposición productos para el cuidado de tu salud e imagen. Brindamos cursos en salud, estéticos y servicios de cuidado personal. Garantizamos el mejor cuidado de tu imagen y salud.
     </strong>
     </p>
-    <div className="subtitle has-text-justified">
+    <div className=" content ">
     <ul  >
   <li >  - Limpiezas faciales</li>
-  
+
   <li >- Megadosis de vitamina C endovenosa</li>
   <li >- Mesoterapia- reducción de papada y cachetes</li>
   <li >- Reductores y reafirmantes</li>

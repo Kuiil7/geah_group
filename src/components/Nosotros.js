@@ -36,19 +36,20 @@ class Nosotros extends Component {
 
 
 </div>
-  <div className="column"><div className="column has-text-justified ">
+  <div className="column">
+    <div className="column content  has-text-justified ">
 
-<p className="pb-2 "><strong>GEAH GROUP</strong> fue fundado en 2019 por <strong> Geraldine Huiñac Figueroa</strong>, creando así una experiencia completamente nueva para los consumidores más exigentes al introducirse en el rubro de <strong>salud y belleza </strong>.</p>
+<p ><strong>GEAH GROUP</strong> fue fundado en 2019 por <strong> Geraldine Huiñac Figueroa</strong>, creando así una experiencia completamente nueva para los consumidores más exigentes al introducirse en el rubro de <strong>salud y belleza </strong>.</p>
 
-<p className="pb-2 ">
+<p >
 <strong>GEAH PHARM </strong>cuenta con suplementos nutricionales elaborados con los insumos más sublimes, nutritivos y naturales del Peru. GEAH PHARM comercializa sus productos a nivel nacional.
 </p>
 
-<p className="pb-2 ">
+<p >
 <strong> Medicina Estética</strong>Ponemos a tu disposición productos para el cuidado de tu salud y imagen. Brindamos cursos en salud, estéticos y servicios de cuidado personal. Garantizamos el mejor cuidado de tu imagen y salud.
 </p>
 
-<p className="pb-2 ">
+<p >
 Llevamos calidad de vida al hogar de cada peruano, avalados por instituciones nacionales referentes a salud. Caracterizados por tener un compromiso constante en desarrollar nuevos productos que satisfagan las necesidades que hay en el mercado. Estamos comprometidos con el cuidado de la salud y la belleza de todos los peruanos.
 
 </p>

@@ -17,13 +17,7 @@ class Salud extends Component {
   <img alt="four women in bikini "  className="" src={geah_salud_cover} />
   </figure>
 
-  < p className="title pb-4">
-  <strong>
-  ¡Un espacio de artistas!
-    </strong>
-    </p>
-
-    <p className="subtitle">
+    <p className="subtitle-3 mt-4">
     Servicio de calidad con personal altamente calificado.
 Ponemos a tu disposición las mejores líneas del mercado de belleza.
 Manos mágicas que resaltarán tu belleza natural, la mejor versión de ti.
