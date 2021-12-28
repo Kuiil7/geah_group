@@ -8,6 +8,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
 
 }
+
 @import "~react-image-gallery/styles/css/image-gallery.css";
 @import 'bulma/css/bulma.css';
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins&display=swap');
@@ -50,3 +51,13 @@ body {
   vertical-align: middle;
   border-radius: 50%;
 }
+
+.is-hero-image {
+  background-image: url("../../components/images/geri_1_16x9.jpeg");
+   background-position: center center;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
+
+}
+

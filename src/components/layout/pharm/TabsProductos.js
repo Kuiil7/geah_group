@@ -2,9 +2,9 @@ import React from "react";
 import {NavLink } from "react-router-dom";
 
 function TabsProductos() {
-  const ProductosTab = <div className="container">
+  const ProductosTab =
 
-  <div className="tabs is-centered">
+  <div className="tabs ">
     <ul>
       <li ><NavLink to="/regeneratur"><p > Regeneratur Vitamina C</p></NavLink></li>
       <li><NavLink to="/biotina"><p>Colageno Hydrolizado + Biotina </p></NavLink></li>
@@ -14,7 +14,7 @@ function TabsProductos() {
       <li><NavLink to="/magnesio"><p>Closuro de Magnesio </p></NavLink></li>
     </ul>
   </div>
-   </div>
+
   return (
     <>{ProductosTab}</>
   );

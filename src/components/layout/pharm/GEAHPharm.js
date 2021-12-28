@@ -21,19 +21,17 @@ function GEAHPharm () {
     },
   ];
 
- const Title =  <p className="title">GEAH PHARM</p>
-
-
-
-const MainContent =
-<div className="container">
-{Title}
-<ProductosTab />
-<div className="mt-4"><ImageGallery items={images} /></div>
-</div>
  return (
 <>
-{MainContent}
+<section className="hero has-background-white-bis is-fullheight">
+<ProductosTab />
+  <div className="hero-body">
+    <div className="">
+    <p className="title">GEAH Pharm</p>
+    <ImageGallery items={images} />
+    </div>
+  </div>
+</section>
 </>
 );
 }

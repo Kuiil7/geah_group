@@ -1,22 +1,23 @@
 import React from "react";
-import geah_landing_9_16x9 from "../../components/images/geri_1_16x9.jpeg"
-import Logos from "./Logos"
-import ContactInfo from "./ContactInfo"
-import {NavLink } from "react-router-dom";
 
 function Main() {
 
-  const Link = <NavLink to="/pharm"><img alt="Geraldine holding product bottles" className="card" width={1600} src={geah_landing_9_16x9} /></NavLink>
+
 
   return (
     <>
-    <section className="hero is-fullheight">
+
+
+<section className="hero  is-fullheight is-hero-image ">
   <div className="hero-body">
-  {Link}
- 
+    <div className="has-background-dark p-4 box " style={{width:"450px", opacity:".7"}}>
+      <p className="title has-text-light mt-4" style={{ opacity:"1"}} >
+     GEAH Group
+      </p>
+      <p className="subtitle has-text-light " style={{ opacity:"1"}} >
+      Ponemos a tu disposición productos para el cuidado de tu salud y imagen.      </p>
+    </div>
   </div>
-  <Logos/>
-<ContactInfo/>
 </section>
     </>
   );

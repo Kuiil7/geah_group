@@ -14,7 +14,7 @@ const content = <div className="has-text-justified is-size-5" >
 </div>
 
 const title = <p className="title is-2">REGENERATUR VITAMINA C</p>
-const IVimage = <img src={RegIV} width="50%" alt="bottle " className="is-pulled-left p-2 "/>
+const IVimage = <img src={RegIV} width="100%" alt="bottle " className="is-pulled-left p-2 "/>
 const MainContent = <div className="container ">
 
 <ProductosVS />

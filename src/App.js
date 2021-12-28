@@ -13,11 +13,11 @@ import MedicinaEstetica from "./components/layout/estetica/MedicinaEstetica";
 import SaludyBelleza from "./components/layout/saludybelleza/SaludyBelleza";
 import Biotina from "./components/layout/pharm/Biotina";
 import Magnesio from "./components/layout/pharm/Magnesio";
-
 function App() {
   return (
     <div className="App">
 <Header />
+
 <Routes>
         <Route path="/" element={<Main />} />
         <Route path="aboutme" element={<AboutMe />} />
@@ -33,6 +33,9 @@ function App() {
         <Route path="magnesio" element={<Magnesio/>} />
 
       </Routes>
+
+
+
     </div>
   );
 }

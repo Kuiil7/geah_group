@@ -10,9 +10,9 @@ function Hidrolizado() {
 <>
 
 <Card
-bottleImgs={IMG_Biotina}
 modo={modo}
 ingredientes={ingredientes}
+bottleImgs={IMG_Biotina}
 />
 
 </>

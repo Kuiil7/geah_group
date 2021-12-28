@@ -3,25 +3,29 @@ import geah_salud_cover from "../../images/geah_salud_cover.png"
 
 function SaludyBelleza () {
 
-  const content = <p>  Servicio de calidad con personal altamente calificado. Ponemos a tu disposición las mejores líneas del mercado de belleza. Manos mágicas que resaltarán tu belleza natural, la mejor versión de ti.</p>
-  const title =<p className="title">Salud y Belleza</p>
+  const content = <div>
+    <p className="title">Salud y Belleza (coming soon)</p>
+    <p className="subtitle">  Servicio de calidad con personal altamente calificado. Ponemos a tu disposición las mejores líneas del mercado de belleza. Manos mágicas que resaltarán tu belleza natural, la mejor versión de ti.</p>
+
+    </div>
  return (
 <>
 
-<div className="container">
-<div className="columns-reverse">
-  <div className="column has-text-centered">
-{title}
-  </div>
-  <div className="column">
-  <figure className="image">
+
+<section className="hero has-background-white-bis is-fullheight">
+  <div className="hero-body">
+    <div className="">
+   {content}
+    <figure className="image">
   <img alt="four women in bikini"  src={geah_salud_cover} />
-  </figure>  </div>
-  <div className="column">
-{content}
+  </figure>
+
+    </div>
   </div>
-</div>
-</div>
+</section>
+
+
+
 </>
 );
 }
