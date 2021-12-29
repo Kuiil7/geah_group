@@ -62,7 +62,7 @@ function AboutMe() {
 <section className="hero has-background-light is-fullheight">
   <div className="hero-body">
     <div className="">
-    <img src={aboutme_geri} alt="founder's portrait" width="30%" className="is-pulled-left p-3 " />
+    <img src={aboutme_geri} alt="founder's portrait"  className="is-pulled-left p-3 " />
       <p className="title mt-1">Geraldine Huiñac Figueroa</p>
       <p className="subtitle">Fundadora</p>
       <p className="subtitle">

@@ -5,6 +5,9 @@ function SaludyBelleza () {
 
   const content = <div>
     <p className="title">Salud y Belleza (coming soon)</p>
+    <figure className="image">
+  <img alt="four women in bikini"  src={geah_salud_cover} />
+  </figure>
     <p className="subtitle">  Servicio de calidad con personal altamente calificado. Ponemos a tu disposición las mejores líneas del mercado de belleza. Manos mágicas que resaltarán tu belleza natural, la mejor versión de ti.</p>
 
     </div>
@@ -16,9 +19,6 @@ function SaludyBelleza () {
   <div className="hero-body">
     <div className="">
    {content}
-    <figure className="image">
-  <img alt="four women in bikini"  src={geah_salud_cover} />
-  </figure>
 
     </div>
   </div>

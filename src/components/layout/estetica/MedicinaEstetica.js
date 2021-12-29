@@ -19,11 +19,10 @@ const Title =   <p className="title">Medicina Estética (coming soon)</p>
   <div className="hero-body">
     <div className="">
       {Title}
-    {contentList}
-   <figure className="image" >
+      <figure className="image" >
      <img alt="four women in bikini"  src={geah_estetica_cover} />
    </figure>
-
+    {contentList}
     </div>
   </div>
 </section>

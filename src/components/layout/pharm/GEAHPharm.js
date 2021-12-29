@@ -31,6 +31,8 @@ function GEAHPharm () {
     <ImageGallery items={images} />
     </div>
   </div>
+  <a href="https://api.whatsapp.com/send?phone=+51997672947" className="float " >
+  <i className="fab fa-whatsapp Whatsapp_float fa-lg"> </i></a>
 </section>
 </>
 );
