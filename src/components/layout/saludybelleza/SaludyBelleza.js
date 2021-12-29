@@ -8,7 +8,7 @@ function SaludyBelleza () {
     <figure className="image">
   <img alt="four women in bikini"  src={geah_salud_cover} />
   </figure>
-    <p className="subtitle">  Servicio de calidad con personal altamente calificado. Ponemos a tu disposición las mejores líneas del mercado de belleza. Manos mágicas que resaltarán tu belleza natural, la mejor versión de ti.</p>
+    <p className="subtitle is-size-6">  Servicio de calidad con personal altamente calificado. Ponemos a tu disposición las mejores líneas del mercado de belleza. Manos mágicas que resaltarán tu belleza natural, la mejor versión de ti.</p>
 
     </div>
  return (

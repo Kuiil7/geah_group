@@ -23,11 +23,11 @@ function GEAHPharm () {
 
  return (
 <>
-<section className="hero has-background-white-bis is-fullheight">
+<section className="hero has-background-white-bis is-fullheight  ">
 <ProductosTab />
   <div className="hero-body">
     <div className="">
-    <p className="title">GEAH Pharm</p>
+    <p className="title ">GEAH Pharm</p>
     <ImageGallery items={images} />
     </div>
   </div>

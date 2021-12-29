@@ -62,21 +62,21 @@ function AboutMe() {
 <section className="hero has-background-light is-fullheight">
   <div className="hero-body">
     <div className="">
-    <img src={aboutme_geri} alt="founder's portrait"  className="is-pulled-left p-3 " />
+    <img src={aboutme_geri} alt="founder's portrait"  className="is-pulled-left p-3 " style={{width:"500px"}} />
       <p className="title mt-1">Geraldine Huiñac Figueroa</p>
       <p className="subtitle">Fundadora</p>
-      <p className="subtitle">
+      <p className="subtitle is-size-5">
 <strong>GEAH GROUP</strong> fue fundado en 2019 por Geraldine Huiñac Figueroa, creando así una experiencia completamente nueva para los consumidores más exigentes al introducirse en el rubro de salud y belleza. </p>
 
-<p className="subtitle">
+<p className="subtitle is-size-5">
  <strong>    GEAH PHARM </strong>cuenta con suplementos nutricionales elaborados con los insumos más sublimes, nutritivos y naturales del Peru. <strong>GEAH PHARM </strong> comercializa sus productos a nivel nacional. </p>
 
-<p className="subtitle">
+<p className="subtitle is-size-5">
 
  Medicina Estética, ponemos a tu disposición productos para el cuidado de tu salud y imagen. Brindamos cursos en salud, estéticos y servicios de cuidado personal. Garantizamos el mejor cuidado de tu imagen y salud.
  </p>
 
- <p className="subtitle">
+ <p className="subtitle is-size-5">
  Llevamos calidad de vida al hogar de cada peruano, avalados por instituciones nacionales referentes a salud. Caracterizados por tener un compromiso constante en desarrollar nuevos productos que satisfagan las necesidades que hay en el mercado. Estamos comprometidos con el cuidado de la salud y la belleza de todos los peruanos.
   </p>
 
